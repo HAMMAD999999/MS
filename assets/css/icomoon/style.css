@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?szm62t');
+  src:  url('fonts/icomoon.eot?szm62t#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?szm62t') format('truetype'),
+    url('fonts/icomoon.woff?szm62t') format('woff'),
+    url('fonts/icomoon.svg?szm62t#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fork-and-knife:before {
+  content: "\e900";
+}
+.icon-lunch:before {
+  content: "\e900";
+}
+.icon-food:before {
+  content: "\e900";
+}
+.icon-restaurant:before {
+  content: "\e900";
+}
+.icon-meal:before {
+  content: "\e900";
+}
+.icon-dinner:before {
+  content: "\e900";
+}
+.icon-cart:before {
+  content: "\e93a";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-search:before {
+  content: "\e986";
+}
+.icon-pie-chart:before {
+  content: "\e99a";
+}
+.icon-leaf:before {
+  content: "\e9a4";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+.icon-pie-chart1:before {
+  content: "\e901";
+}
